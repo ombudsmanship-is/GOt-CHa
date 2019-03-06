@@ -9,6 +9,6 @@
 | static-up | [Scarecrow of Oz](https://sites.google.com/site/tri9vikrama) Google Site |
 | | |
 | wiki-up | Shafar’s FANDOM [user page](https://shafar.fandom.com/wiki/User:Shafar) |
-| static-up | https://app.roll20.net/campaigns/forum/4167870 |
+| static-up | [https://app.roll20.net/campaigns/forum/4167870] |
 | | |
-| base | https://en.wikipedia.org/wiki/User:Kranditri |
+| base | [https://en.wikipedia.org/wiki/User:Kranditri] |
