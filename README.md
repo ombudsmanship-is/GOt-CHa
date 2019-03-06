@@ -3,7 +3,7 @@
 | | [GOt-CHa(?)](https://clifftop-ombudsmanship.github.io/GOt-CHa) |
 | | |
 | wiki-up | [GitHub Clifftop wiki page User:RamaVishnuCandra](https://github.com/RamaVishnuCandra/Clifftop/wiki/User:RamaVishnuCandra) |
-| static-up | [GitHub repository Clifftop](https://ramavishnucandra.github.io/Clifftop) |
+| static-up | RamaVishnuCandra’s [GitHub repository Clifftop](https://ramavishnucandra.github.io/Clifftop) |
 | | |
 | wiki-up | https://scarecrow.referata.com/wiki/User:Tri9vikrama |
 | static-up | https://sites.google.com/site/tri9vikrama |
