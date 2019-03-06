@@ -1,4 +1,4 @@
-| type of up | site link |
+| type of up | site URL |
 | ------------- | ------------- |
 | | clifftop-ombudsmanship.github.io/GOt-CHa |
 | | |
