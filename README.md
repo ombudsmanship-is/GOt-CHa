@@ -1,6 +1,6 @@
 | type of up | site URL link |
 | ------------- | ------------- |
-| | https://clifftop-ombudsmanship.github.io/GOt-CHa |
+| | [https://clifftop-ombudsmanship.github.io/GOt-CHa] |
 | | |
 | wiki-up | https://github.com/RamaVishnuCandra/Clifftop/wiki/User:RamaVishnuCandra |
 | static-up | https://ramavishnucandra.github.io/Clifftop |
