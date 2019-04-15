@@ -1,10 +1,10 @@
 # Qualificatory Bio-Sketching
 
-level | system inward | system upward
---- | --- | ---
-1 | Gandalf | Ged
-2 | Superman | Spiderman
-3 | Yoda | Spock
-1 | Ninja | Pan
-2 | Lucifer | Ravana
-3 | Jack the Ripper | Dracula
+level |  | system inward |  | system upward
+--- | --- | --- | --- | ---
+1 | fire (Middle Earth) | Gandalf | water (Earthsea) | Ged
+2 | green (DC comics) | Superman | red (Marvel) | Spiderman
+3 | solo (Star Wars) | Yoda | lead (Star Trek) | Spock
+1 | Exalted | Ninja | Mage | Pan
+2 | Demon | Lucifer | Werewolf | Ravana
+3 | Hunter | Jack the Ripper | Vampire | Dracula
